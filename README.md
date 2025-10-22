@@ -99,6 +99,3 @@ Panels:
 * Apply discounts, coupons, and taxes.
 * Modernize UI with **Java Swing** or **JavaFX**.
 
-
-
-Do you want me to also create a **markdown version with screenshots placeholders** (so you can later insert images of your UI flow)?
